@@ -1,0 +1,16 @@
+# Eclipse
+.classpath
+.project
+.settings/
+site/
+.DS_Store
+# IntelliJ IDEA
+.idea/
+*.im
+# VS Code
+.vscode/
+# Maven
+target/
+# Gradle
+.gradle/
+build/
